@@ -1,2 +1,2 @@
 # Income-Classification
-This script show how to do some EDA, create a model, and improve the model with hyperparameter tuning.
+This script show how to do some EDA, create a model, and improve the model with hyperparameter tuning to predict the classification on income
